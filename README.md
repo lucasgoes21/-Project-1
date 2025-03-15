@@ -1,5 +1,4 @@
 # Projeto 1
-Modifique o código fornecido na Aula 03 para que realize as seguintes operações:
 
 1. Implemente um método na classe Line do código usado na aula que gera linhas em
 diferentes estilos (tal como pontilhado, traço e ponto), recebendo como entrada
